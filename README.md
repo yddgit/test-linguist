@@ -1,5 +1,7 @@
 # test-linguist
 
+##[linguist support languages list](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
+
 ```bash
 git config --global user.name "yang"
 git config --global user.email "yang@yang.com"
